@@ -20,11 +20,11 @@
 
 - `C:\Users\卢华源\OneDrive - stu.haut.edu.cn`是onedrive的工作目录，仅仅进入onenote的根目录无法看到：如图：
 
-![1547889843403](C:\Users\卢华源\AppData\Roaming\Typora\typora-user-images\1547889843403.png)
+![1547889843403](images\1547889843403.png)
 
 ​	必须要进入任意onedrive下的文件夹，此时资源管理器的路径则可以显示真正的工作目录：
 
 ​	如下图：
 
-​	![1547890044361](C:\Users\卢华源\AppData\Roaming\Typora\typora-user-images\1547890044361.png)
+​	![1547890044361](images\1547890044361.png)
 
