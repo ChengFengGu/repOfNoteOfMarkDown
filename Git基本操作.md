@@ -10,7 +10,7 @@
 
 - tag：指向固定历史提交
 
-  ![1554697813230](C:\Users\卢华源\AppData\Roaming\Typora\typora-user-images\1554697813230.png)
+  ![1554701261902](images/1554701261902.png)
 
 ## Git仓库连接
 
