@@ -103,3 +103,21 @@ git status
 
 ```
 
+## git 添加全部
+
+```git
+git add .
+git commit -m "info"
+git push
+
+```
+
+## git 添加特定文件
+
+``` git
+touch a
+git add a
+git commit -m "info"
+git push
+```
+
