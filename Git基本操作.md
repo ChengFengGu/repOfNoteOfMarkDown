@@ -48,7 +48,7 @@ git clone [URL]/ （自定义名称）   获取一个远程裸仓库的地址(�
   ```git
   git config --global user.name "自己注册时候的用户名"
   git config --global user.email 自己注册时候的邮箱
-  
+  git init (+ repName) 会创建一个.git目录作为暂存仓库
   git remote add origin 自己云端仓库的URL
   ```
 
@@ -77,7 +77,7 @@ git clone [URL]/ （自定义名称）   获取一个远程裸仓库的地址(�
   vim a (修改a)
   *****
   
-  //获取暂存区状态
+  //获取暂存区状态·
   git status
   "提示信息"
   
