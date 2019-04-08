@@ -58,8 +58,6 @@ git clone [URL]/ （自定义名称）   获取一个远程裸仓库的地址(�
   //初试化仓库
   git init (+repName)
   
-  //进入仓库
-  cd repName (或者.git)
   
   //跟踪并添加文件到暂存区
   touch a (a、b都是文件名)
@@ -72,10 +70,8 @@ git clone [URL]/ （自定义名称）   获取一个远程裸仓库的地址(�
   
   //提交
   git commit -m "提交信息"
+  git push
   
-  //修改a
-  vim a (修改a)
-  *****
   
   //获取暂存区状态·
   git status
@@ -94,12 +90,13 @@ git clone [URL]/ （自定义名称）   获取一个远程裸仓库的地址(�
   //提交
   git add a
   git commit -m "xxxx"
+  git push
   
   //重命名
-  git mv a c
-  git status
-  git add a c
-  git status
+  //git mv a c
+  //git status
+  //git add a c
+  //git status
   
   ```
 
